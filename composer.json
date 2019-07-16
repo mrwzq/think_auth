@@ -1,0 +1,22 @@
+{
+  "name": "wangzq/think_auth",
+  "description": "thinkphp5 auth component",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wangzq",
+      "email": "291768903@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "topthink/framework": "^5.1"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Zachary\\": "src/"
+    }
+  }
+}
